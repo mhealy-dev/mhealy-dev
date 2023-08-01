@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [https://github.com/mhealy-dev/Resume](https://github.com/mhealy-dev/Resume)
 
-- ⚡ Fun fact: **LOTR is my jam**
+- ⚡ Fun fact: **I've seen Lord of the Rings more times than I can count.**
 
 <br/>
 
