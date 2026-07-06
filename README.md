@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael Healy</h1>
-<h3 align="center">A wannabe Software Engineer, with a passion for games and code.</h3>
+<h3 align="center">A Platform/DevX Engineer, with a passion for games and code.</h3>
 
 <br/>
 
-- 🔭 I’m currently working on: [mHealy.dev](https://github.com/mhealy-dev/mHealy.dev)
+- 🔭 I’m currently working on: [taptodraft.com](https://taptodraft.com)
 
-- 🌱 I’m currently learning: **Python/JavaScript**
+- 🌱 I’m currently learning: **How to cope with AI hyjinx**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/mhealy-dev](https://github.com/mhealy-dev)
 
