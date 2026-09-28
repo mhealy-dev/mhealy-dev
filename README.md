@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Healy</h1>
-<h3 align="center">A Platform/DevX Engineer, with a passion for games and code.</h3>
+<h3 align="center">A Staff Solutions Architect, with a passion for games and code.</h3>
 
 <br/>
 
